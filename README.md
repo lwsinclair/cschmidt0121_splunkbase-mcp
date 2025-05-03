@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-cschmidt0121-splunkbase-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-cschmidt0121-splunkbase-mcp)
+
 # splunkbase-mcp
 
 An MCP server for Splunkbase
